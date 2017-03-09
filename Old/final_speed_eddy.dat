@@ -1,0 +1,2 @@
+# This file has the deficit, wind speed and power at each turbine per wind direction.
+# Turbine number	X-coordinate	Y-coordinate	Total speed deficit	Total wind speed	Wind direction angle	Power produced
